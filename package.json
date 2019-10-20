@@ -1,0 +1,17 @@
+{
+  "name": "ar-capture-photo",
+  "version": "1.0.0",
+  "description": "This example allows the user to capture photo evidence of a UFO abduction. This showcases the 8th Wall Web screenshot API as well as using HTML to show an interface controlled by an A-Frame component.",
+  "main": "index.html",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "ar"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.26.7"
+  }
+}
